@@ -1,0 +1,17 @@
+.container_div{
+    border: 3px double rgb(255, 255, 255);
+    background-color: rgba(0, 0, 0, 0.4);
+
+}
+.bg_img{
+    background-image: url("https://images.unsplash.com/photo-1654573817889-296cad084c97?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE0fHx8ZW58MHx8fHx8&w=1000&q=80");
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+}
+.firstname{
+    text-transform: capitalize;
+}
+input::-webkit-inner-spin-button{
+    -webkit-appearance: none;
+}
